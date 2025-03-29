@@ -27,61 +27,61 @@
 { 
 "name"				  	: 			"ไทยลีค", 
 "image"			  		: 			"https://truevisions.co.th/static/ae9bbcba-04c6-4823-a8c0-80e103bd0962.png", 
-"url"				    	: 			"8888888888888" 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league" 
 },
 
 {
-"name"				  	:			"รายการออนไลน์",
-"image"		  			:			"https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
-"url"				    	:			"http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
+"name"				  	:			  "รายการออนไลน์",
+"image"		  			:			  "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
+"url"				    	:			  "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
 },
 
 {
-"name"			  		:			"รายการที่ขอมา",
-"image"			  		:			"https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
-"url"				    	:			"https://pastebin.com/raw/UuZ6tWUQ"
+"name"			  		:		  	"รายการที่ขอมา",
+"image"			  		:			  "https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
+"url"				    	:			  "https://pastebin.com/raw/UuZ6tWUQ"
 },
 
 {
-"name"				   	:			"LIVE 1",
-"image"				  	:			"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
-"url"				    	:			"https://docs.google.com/uc?id=1CV5uSKfqaQnpO-kpkR1_gvn5NSnKL-dd"
+"name"				   	:		  	"LIVE 1",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
+"url"				    	:		  	"https://docs.google.com/uc?id=1CV5uSKfqaQnpO-kpkR1_gvn5NSnKL-dd"
 },
 
 {
-"name"			  		:			"LIVE 2",
-"image"			  		:			"https://cdn-icons-png.flaticon.com/512/3874/3874201.png",
-"url"				    	:			"https://docs.google.com/uc?id=1IK7LSr9let7H5GvjNTMcsUZifhq2n0_w"
+"name"			  		:		  	"LIVE 2",
+"image"			  		:		  	"https://cdn-icons-png.flaticon.com/512/3874/3874201.png",
+"url"				    	:		  	"https://docs.google.com/uc?id=1IK7LSr9let7H5GvjNTMcsUZifhq2n0_w"
 },
 
 {
-"name"				  	:			"LIVE 3",
-"image"				  	:			"https://cdn-icons-png.flaticon.com/512/4483/4483400.png",
-"url"				    	:			"https://docs.google.com/uc?id=1smIJANirtRndnRj-_OTPK9RmeILJl1bO"
+"name"				  	:		  	"LIVE 3",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/4483/4483400.png",
+"url"				    	:		  	"https://docs.google.com/uc?id=1smIJANirtRndnRj-_OTPK9RmeILJl1bO"
 },  
 
 {
-"name"			  		:			"LIVE 4",
-"image"				   	:			"https://cdn-icons-png.flaticon.com/512/5921/5921345.png",
-"url"				    	:			"https://docs.google.com/uc?id=1FdpDJPMxss1mHZqom5EELWo7VJPijK6x"
+"name"			  		:		  	"LIVE 4",
+"image"				   	:		  	"https://cdn-icons-png.flaticon.com/512/5921/5921345.png",
+"url"				    	:		  	"https://docs.google.com/uc?id=1FdpDJPMxss1mHZqom5EELWo7VJPijK6x"
 },
 
 {
-"name"				  	:			"LIVE 5",
-"image"				  	:			"https://cdn-icons-png.flaticon.com/512/4912/4912538.png",
-"url"				    	:			""
+"name"				  	:		  	"LIVE 5",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/4912/4912538.png",
+"url"				    	:		  	""
 },
 
 {
-"name"				  	:			"NETFLIX",
-"image"					  :			"https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
-"url"					    :			"https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9"
+"name"				  	:			  "NETFLIX",
+"image"					  :			  "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
+"url"					    :		  	"https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9"
 },
 
 {
-"name"				  	:			"18+ [เด็กห้ามเข้า!]",
-"image"				  	:			"https://cdn-icons-png.flaticon.com/512/10543/10543538.png",
-"url"				    	:			"https://pastebin.com/raw/D92ZF58V"
+"name"				  	:			  "18+ [เด็กห้ามเข้า!]",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/10543/10543538.png",
+"url"				    	:		  	"https://pastebin.com/raw/D92ZF58V"
 },
 ]
 }
