@@ -83,5 +83,11 @@
 "image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/10543/10543538.png",
 "url"				    	:		  	"https://pastebin.com/raw/D92ZF58V"
 },
+
+{
+"name"				  	:			  "DEV-THANAWAT",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/2245/2245315.png",
+"url"				    	:		  	""
+},
 ]
 }
