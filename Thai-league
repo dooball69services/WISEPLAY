@@ -1,0 +1,98 @@
+{
+"name"		:		"ไทยลีค",
+"author"	: 		"สัญญาณภาพมาเฉพาะตอนแข่งเท่านั้น",
+"image"		: 		"",
+"url"		: 		"https://pastebin.com/raw/fWnXN00q",
+"stations"	: [
+
+{
+"name"		:		"TRUE BALL THAI 1",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/sX02853792.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai1/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 2",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/Fk36853791.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai2/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 3",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/6m91853789.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai3/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 4",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/mtA7853790.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai4/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 5",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/Nvla853787.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai5/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 6",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/pzVq853788.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai6/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 7",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/C8zb853786.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai7/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 8",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/Ow1n853785.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai8/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 9",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/7h16853783.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"TRUE BALL THAI 10",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/kW4l853784.png",
+"url"		: 		"https://cdn1.googlecdnforstreaming.live/live/trueballthai10/playlist.m3u8",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+]
+},
