@@ -94,5 +94,14 @@
 "referer"	: 		"https://warpdooball.net/",
 "userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 },
+
+{
+"name"		:		"TRUE BALL THAI 10",
+"info"		:		"",
+"image"		: 		"https://www.i-pic.info/i/kW4l853784.png",
+"url"		: 		"https://cyberpor.com/player/b3b4f6d6-66c5-4824-acd5-3984a195e93c",
+"referer"	: 		"https://warpdooball.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
 ]
 },
