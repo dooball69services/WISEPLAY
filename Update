@@ -1,0 +1,27 @@
+{
+"name"		            :		  "อัพเดทข่าวสารเพิ่มเติม [พัฒนาโดย THANAWAT]",
+"author"	            : 		"",
+"image"		            : 		"",
+"url"		              : 		"https://pastebin.com/raw/VTHtq3G6",
+"stations"	          : 
+[
+
+{
+"name"		            :		  "📍อัพเดทวันที่ 07/03/68",
+"info"		            :		  "",
+"image"		            : 		"https://cdn-icons-png.flaticon.com/512/5309/5309792.png",
+"url"		              : 		"",
+"referer"	            : 		"",
+"userAgent"	          : 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		            :		  "📍อัพเดทวันที่ 12/03/68",
+"info"		            :		  "",
+"image"		            : 		"https://cdn-icons-png.flaticon.com/512/5309/5309792.png",
+"url"		              : 		"",
+"referer"	            : 		"https://www.twitch.tv/",
+"userAgent"	          : 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+]
+},
