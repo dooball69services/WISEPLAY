@@ -37,6 +37,12 @@
 },
 
 {
+"name"				  	:			  "รายการออนไลน์ 2",
+"image"		  			:			  "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
+"url"				    	:			  "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Content"
+},
+
+{
 "name"			  		:		  	"รายการที่ขอมา",
 "image"			  		:			  "https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
 "url"				    	:			  "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/THANAWAT"
