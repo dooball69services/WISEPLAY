@@ -4,6 +4,32 @@
 "url": "", 
 "groups": [ 
 
+{
+  "name": "กีฬารายวัน",
+  
+  "image": "https://cdn-icons-png.flaticon.com/512/4645/4645269.png",
+  "url":"https://docs.google.com/uc?export=download&id=14r6sDSP8CjYC5s6fPEQuyh48U1JuLk9v",
+  
+  "import":"False"
+},
+
+{
+  "name": "ดูสด การ์ตูน หนัง และสารคดี",
+  
+  "image": "https://cdn-icons-png.flaticon.com/512/5190/5190335.png",
+  "url":"https://docs.google.com/uc?export=download&id=1tOcJLdIIneqGsrl_MXIafW6JDP_vbJJ1",
+  
+  "import":"False"
+}
+
+{
+  "name": "การ์ตูนใหม่ๆ",
+  
+  "image": "https://cdn-icons-png.flaticon.com/512/1507/1507155.png",
+  "url":"https://docs.google.com/uc?export=download&id=1PvTXsbz9x1_ySkg-mGnZ6ed1fz6B3HIf",
+  
+  "import":"False"
+},
 
 {
   "name": "ภาพยนตร์",
@@ -32,31 +58,9 @@
   "import":"False"
 },
 
-{
-  "name": "การ์ตูนใหม่ๆ",
-  
-  "image": "https://cdn-icons-png.flaticon.com/512/1507/1507155.png",
-  "url":"https://docs.google.com/uc?export=download&id=1PvTXsbz9x1_ySkg-mGnZ6ed1fz6B3HIf",
-  
-  "import":"False"
-},
 
-{
-  "name": "กีฬารายวัน",
-  
-  "image": "https://cdn-icons-png.flaticon.com/512/4645/4645269.png",
-  "url":"https://docs.google.com/uc?export=download&id=14r6sDSP8CjYC5s6fPEQuyh48U1JuLk9v",
-  
-  "import":"False"
-},
-{
-  "name": "ดูสด การ์ตูน หนัง และสารคดี",
-  
-  "image": "https://cdn-icons-png.flaticon.com/512/5190/5190335.png",
-  "url":"https://docs.google.com/uc?export=download&id=1tOcJLdIIneqGsrl_MXIafW6JDP_vbJJ1",
-  
-  "import":"False"
-}
+
+
 
 
 
