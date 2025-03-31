@@ -10,6 +10,7 @@
 "name"				  	: 			"REFRESH", 
 "image"			  		: 			"https://cdn-icons-png.flaticon.com/512/189/189686.png", 
 "url"				  	  : 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/DOOBALL69!" 
+"import"          :       "False"
 },
 
 { 		
