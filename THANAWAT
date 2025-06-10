@@ -103,5 +103,14 @@
 "referer"	: 		"https://24-hd.tv/",
 "userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 },
+
+{
+"name"		:		"NHK World Premium",
+"info"		:		"อัพโหลดโดย THANAWAT",
+"image"		: 		"https://xn--285-1klzd4a0j0b1d.com/wp-content/uploads/2020/08/p695.jpg",
+"url"		: 		"https://livestreamlinks.net/en/onlinetv/japan/nhk-world-premium-1",
+"referer"	: 		"https://livestreamlinks.net/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
 ]
 },
