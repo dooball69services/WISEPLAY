@@ -114,12 +114,14 @@
 },
 
 {
-"name"		:		"666",
+"name"		:		"666x",
 "info"		:		"อัพโหลดโดย THANAWAT",
 "image"		: 		"https://en.m.wikipedia.org/wiki/NHK_World-Japan#/media/File%3ANHK_World.svg",
-"url"		: 		"https://s2x.apple-streams.com:9310/v5/vEWDbRUDxxqRgZ4kAqX7_Q/1750006846/6961e9e95eb2aa4a538d4eed91231fa3/YSIFoHx-0EbH30aHRNRtWA/1750017526/live/vx-origin/epl-bein1_720/playlist.m3u8",
+"url"		: 		"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
 "referer"	: 		"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+  "embed":"true",
 },
 ]
 },
