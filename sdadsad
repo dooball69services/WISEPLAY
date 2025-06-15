@@ -1,0 +1,25 @@
+{ 
+"name":"รวมช่อง", 
+"author":"เด็กปากพนังน่ะครับ", 
+"image":"https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",   
+"info":"For เด็กปาพนังน่ะครับ",
+"stations": 
+
+[
+
+
+{
+"name":"Warnertvสำรอง2",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"url":"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"referer":"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+"info":"Server livescorethai.tv",
+"embed":"true",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},
+
+
+
+				                                
+                                
+]
+} 
