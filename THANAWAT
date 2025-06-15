@@ -108,7 +108,7 @@
 "name"		:		"NHK World Premium",
 "info"		:		"อัพโหลดโดย THANAWAT",
 "image"		: 		"https://en.m.wikipedia.org/wiki/NHK_World-Japan#/media/File%3ANHK_World.svg",
-"url"		: 		"https://livestreamlinks.net/en/onlinetv/japan/nhk-world-premium-1",
+"url"		: 		"https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8",
 "referer"	: 		"https://livestreamlinks.net/",
 "userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 },
