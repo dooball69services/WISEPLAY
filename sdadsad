@@ -1,25 +1,33 @@
-{ 
-"name":"รวมช่อง", 
-"author":"เด็กปากพนังน่ะครับ", 
-"image":"https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",   
-"info":"For เด็กปาพนังน่ะครับ",
-"stations": 
-
-[
-
-
-{
-"name":"Warnertvสำรอง2",
-"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
-"url":"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-"referer":"https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-"info":"Server livescorethai.tv",
-"embed":"true",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"},
-
-
-
-				                                
-                                
-]
-} 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP1 (TH)
+https://playcdn.kserietv.com/866b77c7-e7df-4016-b6ad-a35c3b0f628e/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP2 (TH)
+https://playcdn.kserietv.com/15c81baf-4a2b-47fa-801f-5e0f3ec275a6/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP3 (TH)
+https://playcdn.kserietv.com/dcb72412-9c62-4b95-b547-ba7fd94a9310/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP4 (TH)
+https://playcdn.kserietv.com/c8e8c1aa-15d8-4e1e-bbcb-1b21e640786e/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP5 (TH)
+https://playcdn.kserietv.com/8af326a4-2cd1-4e3b-8596-538754c04c43/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP6 (TH)
+https://playcdn.kserietv.com/7626ad38-5a60-4db7-bb99-98b70a41501d/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP7 (TH)
+https://playcdn.kserietv.com/a63d916a-54a2-4d5d-b509-1eff73266b20/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP8 (TH)
+https://playcdn.kserietv.com/39306919-d492-4934-90cc-4ad642ca0dec/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP1 (SUB)
+https://playcdn.kserietv.com/00bc892e-806d-4757-af8f-6b5726129a15/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP2 (SUB)
+https://playcdn.kserietv.com/ff4e22cc-a9f8-48a9-9335-d8283176a85f/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP3 (SUB)
+https://playcdn.kserietv.com/112317f9-0ef2-4d5a-80c2-e063959c0934/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP4 (SUB)
+https://playcdn.kserietv.com/876164e3-1f5a-4fb0-b48a-72929e691914/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP5 (SUB)
+https://playcdn.kserietv.com/bcbd9426-8a77-479f-88da-4ab608c54d12/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP6 (SUB)
+https://playcdn.kserietv.com/a1b55918-f0f5-42c8-8db7-8f1fcc832a2c/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP7 (SUB)
+https://playcdn.kserietv.com/349ab0db-f540-41f4-9e91-ff798b190f9f/_
+#EXTINF:-1 tvg-logo="https://kserietv.co/wp-content/uploads/2023/12/ดูซีรี่ย์-Reacher-Season-1-2022-รีชเชอร์-ยอดคนสืบระห่ำ-ซีซั่น-1.webp",ดูซีรี่ย์ Reacher Season 1 (2022) ดูซีรี่ย์ออนไลน์ EP8 (SUB)
+https://playcdn.kserietv.com/7fbeb1b1-f53d-406d-bcef-aba79706aab7/_
