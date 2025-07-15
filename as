@@ -10,8 +10,6 @@
 "url": "https://www.stream1688.com/v8movie.php?v=3C0ckGyrH8&lang=",
 "referer": "",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true",
 "info":"Dooball66"
 },
   ]
