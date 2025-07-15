@@ -1,108 +1,59 @@
 {
-  "name": "ดูหนังออนไลน์",
-  "author": "",
-  "image": "",
-  "url": "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
-  "stations": [
-    {
-      "name": "Abandoned Mountain Soul Chilling (2025) ภูเขาวังเวงยามราตรี",
-      "url": "https://main.24playerhd.com/index_th.php?id=8380e92c4120bf8d8f90054a&backup=0",
-      "image": "https://www.123-hdd.com/wp-content/uploads/2025/07/Abandoned-Mountain-Soul-Chilling-2025-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B5-300x450.png",
-      "info": "Abandoned Mountain Soul Chilling (2025) ภูเขาวังเวงยามราตรี"
-      "referer": "",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ",
-      "url": "https://www.stream1688.com/v8movie.php?v=wsSFtVYqBD&lang=พากย์ไทย&langtwo=Soundtrack%20ซับ&sub=r2JkCS9hPc",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Aap-Jaisa-Koi.png",
-      "info": "Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "John Wick (2014) แรงกว่านรก",
-      "url": "https://www.stream1688.com/v8movie.php?v=902464&lang=พากย์ไทย&langtwo=Soundtrack%20ซับ&sub=Dqh16B3vGYz",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2019/10/JohnWick.jpg",
-      "info": "John Wick (2014) แรงกว่านรก"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Brick (2025) กำแพง",
-      "url": "https://www.stream1688.com/v8movie.php?v=FCTcdeSF32&lang=พากย์ไทย&langtwo=Soundtrack%20ซับ&sub=yV7ZsilmKr",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Brick-2025.png",
-      "info": "Brick (2025) กำแพง"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Emilia Perez (2024)",
-      "url": "https://main.24playerhd.com/index_th.php?id=97cf5053f07495d2e1a2c6dd&backup=0",
-      "image": "https://www.123-hdd.com/wp-content/uploads/2025/01/Emilia-Perez-2024-1-300x450.png",
-      "info": "Emilia Perez (2024)"
-      "referer": "",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "High Rollers (2025) แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด",
-      "url": "https://www.stream1688.com/v8movie.php?v=TN1r00h1qd&lang=พากย์ไทย&langtwo=Soundtrack%20ซับ&sub=mF8DCzu7ge",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/High-Rollers.png",
-      "info": "High Rollers (2025) แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Presence (2024)",
-      "url": "https://main.24playerhd.com/index_th.php?id=5dea20527ae597eb646dcd02&backup=0",
-      "image": "https://www.123-hdd.com/wp-content/uploads/2025/03/Presence-2024-1-300x450.png",
-      "info": "Presence (2024)"
-      "referer": "",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "The Heart Knows (2025) หัวใจรู้เอง",
-      "url": "https://www.stream1688.com/v8movie.php?v=vaVy3he8Bg&lang=พากย์ไทย&langtwo=Soundtrack%20ซับ&sub=B1tFVnxiE6",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2025/05/The-Heart-Knows-2025.png",
-      "info": "The Heart Knows (2025) หัวใจรู้เอง"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Kahar Kapla High Council (2024) คาฮาร์ อหังการท้าสภาเถื่อน",
-      "url": "https://main.24playerhd.com/index_th.php?id=e4efe9b2a6d0f835143818eb&backup=0",
-      "image": "https://www.123-hdd.com/wp-content/uploads/2025/07/Kahar-Kapla-High-Council-2024-%E0%B8%84%E0%B8%B2%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-300x450.png",
-      "info": "Kahar Kapla High Council (2024) คาฮาร์ อหังการท้าสภาเถื่อน"
-      "referer": "",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-    {
-      "name": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์: กำเนิดชีวิตใหม่",
-      "url": "https://www.stream1688.com/v8movie.php?v=ctevQmMD9v&lang=",
-      "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Jurassic-World-Rebirth.png",
-      "info": "Jurassic World Rebirth (2025) จูราสสิค เวิลด์: กำเนิดชีวิตใหม่"
-      "referer": "https://www.v8-hd.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-      "playInNatPlayer": "true",
-      "embed": "true",
-    },
-  ]
+"name"		:		"MONOMAX",
+"author"	: 		"สัญญาณภาพมาเฉพาะตอนแข่งเท่านั้น",
+"image"		: 		"",
+"url"		: 		"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
+"stations"	: [
+
+{
+"name"		:		"MONOMAX",
+"info"		:		"",
+"image"		: 		"https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+"url"		: 		"https://ballthaitv.com/soccer/doball/ch612/",
+"referer"	: 		"https://ballthaitv.com/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name"		:		"Them Behind the Door (2024) เปิด DOOR เห็นผี",
+"info"		:		"sssdasd",
+"image"		: 		"https://www.v8-hd.com/wp-content/uploads/2025/07/Them-Behind-the-Doo.jpg",
+"url"		: 		"https://main.24playerhd.com/index_th.php?id=97cf5053f07495d2e1a2c6dd&backup=0",
+"referer"	: 		"https://www.v8-hd.com/",
+"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+},
+
+{
+"name": "",
+"image": "https://drive.google.com/uc?id=1Rs4Tw4_AdtLeBuwVWMRsKlbnKnX8hms8",
+"url": "https://embed.rentm3u8.com/player.php?channel=ro-primasport1&api_key=sdf34sd23pasd&token=MTc1MjQzNzEwOXxiZTZkOGRhM2UzNTlmZDMwN2QxMDk0M2E3ZDVmMmJlZA==",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+  "embed":"true",
+"info":"Doobssssdsaall66"
+},
+
+{
+"name": "ssssssasdasds",
+"image": "https://drive.google.com/uc?id=1Rs4Tw4_AdtLeBuwVWMRsKlbnKnX8hms8",
+"url": "https://doofootballsfree24hour.on.drv.tw/iframe_1752567846.html",
+"referer": "https://dooball66k.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+  "embed":"true",
+"info":"Dooball66"
+},
+
+{
+"name": "sasd",
+"image": "https://drive.google.com/uc?id=1Rs4Tw4_AdtLeBuwVWMRsKlbnKnX8hms8",
+"url": "https://main.24playerhd.com/index_th.php?id=97cf5053f07495d2e1a2c6dd&backup=0",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+  "embed":"true",
+"info":"Doobaldfsfffffffffffdsfl66"
+},
+]
 },
