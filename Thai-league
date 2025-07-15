@@ -1,48 +1,18 @@
 {
-"name"		:		"MONOMAX",
-"author"	: 		"สัญญาณภาพมาเฉพาะตอนแข่งเท่านั้น",
-"image"		: 		"",
-"url"		: 		"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
-"stations"	: [
-
-{
-"name"		:		"MONOMAX",
-"info"		:		"",
-"image"		: 		"https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-"url"		: 		"https://ballthaitv.com/soccer/doball/ch612/",
-"referer"	: 		"https://ballthaitv.com/",
-"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-},
-
-{
-"name"		:		"Them Behind the Door (2024) เปิด DOOR เห็นผี",
-"info"		:		"",
-"image"		: 		"https://www.v8-hd.com/wp-content/uploads/2025/07/Them-Behind-the-Doo.jpg",
-"url"		: 		"https://www.stream1688.com/v8movie.php?v=3C0ckGyrH8&lang=",
-"referer"	: 		"https://www.v8-hd.com/",
-"userAgent"	: 		"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-},
-
-{
-"name": "",
-"image": "https://drive.google.com/uc?id=1Rs4Tw4_AdtLeBuwVWMRsKlbnKnX8hms8",
-"url": "https://embed.rentm3u8.com/player.php?channel=ro-primasport1&api_key=sdf34sd23pasd&token=MTc1MjQzNzEwOXxiZTZkOGRhM2UzNTlmZDMwN2QxMDk0M2E3ZDVmMmJlZA==",
-"referer": "https://dooball66k.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true",
-"info":"Dooball66"
-},
-
-{
-"name": "ssss",
-"image": "https://drive.google.com/uc?id=1Rs4Tw4_AdtLeBuwVWMRsKlbnKnX8hms8",
-"url": "https://embed-rr.rentm3u8.com/dooball66v2/ajax_player.php?channel=dooball66-spotv2x&api_key=hmcb4rf66f",
-"referer": "https://dooball66k.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-"playInNatPlayer": "true",
-  "embed":"true",
-"info":"Dooball66"
-},
-]
-},
+  "name": "ดูหนังออนไลน์",
+  "author": "",
+  "image": "",
+  "url": "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
+  "stations": [
+    {
+      "name": "Mountainhead (2025) เมาน์เทนเฮด",
+      "url": "https://main.24playerhd.com/index_th.php?id=73f0e597e92dd4c2b94a1e36&backup=0",
+      "image": "https://www.123-hdd.com/wp-content/uploads/2025/06/Mountainhead-2025-%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%94-300x450.png",
+      "info": "Mountainhead (2025) เมาน์เทนเฮด",
+      "referer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    }
+  ]
+}
