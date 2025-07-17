@@ -1,32 +1,20 @@
-{
-  "name": "ดูบอลออนไลน์",
-  "author": "Dev By DOOBALL69! [AUTO UPDATE]",
-  "url": "",
-  "image": "https://cdn-icons-png.flaticon.com/512/4049/4049083.png",
-  "groups": [
-    {
-      "name": "กีฬา",
-      "author": "Dev By DOOBALL69! [AUTO UPDATE]",
-      "url": "",
-      "image": "https://cdn-icons-png.flaticon.com/512/5388/5388915.png",
-      "stations": [
-        {
-          "name": "ASEAN Mandiri Cup 2025",
-          "image": "https://dookeela.live/uploads/1752532908.png",
-          "url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-1",
-          "referer": "https://dookeela.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-          "info": "ASEAN Mandiri Cup 2025",
-        },
-        {
-          "name": "ASEAN Mandiri Cup 2025 (2)",
-          "image": "https://dookeela.live/uploads/1752534689.png",
-          "url": "https://dookeela.live/live-tv/asean-u23-mandiri-cup-2",
-          "referer": "https://dookeela.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-          "info": "ASEAN Mandiri Cup 2025 (2)",
-        },
+{"name": "LIVE 1",
+"author": "",
+"url": "",
+"image": "",
+"groups": [
+{"name": "กีฬา",
+"author": "LIVE 1",
+"url": "",
+"image": "https://img.pikbest.com/png-images/20241030/-22championship-sports-logo-design-22_11028694.png!w700wp","stations": [{"name": "ASTRO CRICKET HD | Malaysia","image": "https://dookeela.live/uploads/1720166377.png","url": "https://dookeela.live/live-tv/astrocrickethd","referer": "https://dookeela.live/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36","info": "ASTRO CRICKET HD | Malaysia"},{"name": "Astro Arena","image": "https://dookeela.live/uploads/1697812603.png",
+"url": "https://dookeela.live/live-tv/astroarena",
+"referer": "https://dookeela.live/","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+"info": "Astro Arena"},
       ]
     }
   ]
 }
+
+
+
+
