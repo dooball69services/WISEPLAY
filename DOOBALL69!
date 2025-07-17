@@ -31,6 +31,12 @@
 },
 
 {
+"name"				   	:		  	"ดูบอลออนไลน์",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
+"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C"
+},
+
+{
 "name"				  	:			  "รายการออนไลน์",
 "image"		  			:			  "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
 "url"				    	:			  "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
@@ -40,12 +46,6 @@
 "name"			  		:		  	"รายการที่ขอมา",
 "image"			  		:			  "https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
 "url"				    	:			  "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/THANAWAT"
-},
-
-{
-"name"				   	:		  	"LIVE 1",
-"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
-"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C"
 },
 
 {
