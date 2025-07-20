@@ -1,0 +1,378 @@
+{
+  "name": "ดูบอลสดวันนี้",
+  "author": "",
+  "image": "",
+  "url": "",
+  "stations": [
+    {
+      "name": "กอร์นิค ซาเบอร์เซ่ vs ลีเกีย กดังส์",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430384",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "19:45 - กอร์นิค ซาเบอร์เซ่ vs ลีเกีย กดังส์",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Motor Lublin vs อาร์ก้า กดีเนีย",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430386",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22:30 - Motor Lublin vs อาร์ก้า กดีเนีย",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เพียสท์ กลิวิเซ่ vs กอร์นิค ซาเบอร์เซ่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1432394",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "26/07 - เพียสท์ กลิวิเซ่ vs กอร์นิค ซาเบอร์เซ่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ราปิด เวียนนา vs อูนิโอน เบอร์ลิน",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430412",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "21:00 - ราปิด เวียนนา vs อูนิโอน เบอร์ลิน",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ไลเรีย vs เฟเนร์บาห์เช่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431170",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "02:00 - ไลเรีย vs เฟเนร์บาห์เช่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "สปอร์ติ้ง ลิสบอน vs ซันเดอร์แลนด์",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431207",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - สปอร์ติ้ง ลิสบอน vs ซันเดอร์แลนด์",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อาร์เซน่อล vs เอซี มิลาน",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431289",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - อาร์เซน่อล vs เอซี มิลาน",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อาแจกซ์ อัมสเตอร์ดัม vs กลาสโกว์ เซลติก",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431520",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "25/07 - อาแจกซ์ อัมสเตอร์ดัม vs กลาสโกว์ เซลติก",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ฮัมมาร์บี้ vs บรอมมาปอยคาร์น่า",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430245",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "21:30 - ฮัมมาร์บี้ vs บรอมมาปอยคาร์น่า",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ฮาล์มสตัด vs ฮัคเค่น",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430248",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "21:30 - ฮาล์มสตัด vs ฮัคเค่น",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "นอร์โคปิ้ง vs วาร์นาโม่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430630",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - นอร์โคปิ้ง vs วาร์นาโม่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "สลาเวีย โซเฟีย vs โบเตฟ วรัตซ่า",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430407",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23:00 - สลาเวีย โซเฟีย vs โบเตฟ วรัตซ่า",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "มิดทิลแลนด์ vs โอบี โอเดนเซ่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430377",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23:00 - มิดทิลแลนด์ vs โอบี โอเดนเซ่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "สลาเวีย ปราก vs ฮราเดช คราโลเว่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430399",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "01:00 - สลาเวีย ปราก vs ฮราเดช คราโลเว่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "วิคตอเรีย พัลเซ่น vs ยาโบลเนช",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1432416",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "26/07 - วิคตอเรีย พัลเซ่น vs ยาโบลเนช",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ปูมาส ยูเอเอ็นเอ็ม vs Pachuca",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430383",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "01:00 - ปูมาส ยูเอเอ็นเอ็ม vs Pachuca",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เกเรตาโร่ เอฟซี vs ปูมาส ยูเอเอ็นเอ็ม",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1432384",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "26/07 - เกเรตาโร่ เอฟซี vs ปูมาส ยูเอเอ็นเอ็ม",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ราปิด บูคาเรสต์ vs ซีเอฟอาร์ คลูช",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430405",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "01:30 - ราปิด บูคาเรสต์ vs ซีเอฟอาร์ คลูช",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "วาลูร์ vs Cavalry",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430268",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "02:00 - วาลูร์ vs Cavalry",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "พัลไมรัส vs อัตเลติโก มิเนโร่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430270",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "03:30 - พัลไมรัส vs อัตเลติโก มิเนโร่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ฟลูมิเนนเซ่ vs พัลไมรัส",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431277",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "24/07 - ฟลูมิเนนเซ่ vs พัลไมรัส",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Fortaleza CEIF vs Once Caldas",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430423",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "05:15 - Fortaleza CEIF vs Once Caldas",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เดปอร์ติโว่ เปเรยร่า vs อัตเลติโก นาซิอองนาล",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431311",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - เดปอร์ติโว่ เปเรยร่า vs อัตเลติโก นาซิอองนาล",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อินโดนีเซีย ยู-23 vs มาเลเซีย ยู-23",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431331",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "21/07 - อินโดนีเซีย ยู-23 vs มาเลเซีย ยู-23",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "แลนด์สโครน่า vs Trelleborgs FF",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430628",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - แลนด์สโครน่า vs Trelleborgs FF",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อุตซิคเท่น vs เฮลซิงบอร์ก",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430629",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - อุตซิคเท่น vs เฮลซิงบอร์ก",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Estudiantes de La Plata vs อูราคาน",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430641",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - Estudiantes de La Plata vs อูราคาน",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "กวางจู เอฟซี vs กิมซอน ซังมู",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430814",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "22/07 - กวางจู เอฟซี vs กิมซอน ซังมู",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อุลซาน ฮุนได vs แทจอน ซิติเซน",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431310",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - อุลซาน ฮุนได vs แทจอน ซิติเซน",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "วิคตอเรีย พัลเซ่น vs เซอร์เวตต์",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430799",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - วิคตอเรีย พัลเซ่น vs เซอร์เวตต์",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Cerro Largo vs เซ็นทรัล คอร์โดบา เอสดีอี",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1430783",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - Cerro Largo vs เซ็นทรัล คอร์โดบา เอสดีอี",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "วาสโก ดา กาม่า vs อินเดเปนเดียนเต้ เดล วาเย่",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431292",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "23/07 - วาสโก ดา กาม่า vs อินเดเปนเดียนเต้ เดล วาเย่",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ปาเลสติโน่ vs โบลิวาร์",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431290",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "24/07 - ปาเลสติโน่ vs โบลิวาร์",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เกรมิโอ vs อาเลียนซ่า ลิม่า",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431489",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "24/07 - เกรมิโอ vs อาเลียนซ่า ลิม่า",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Once Caldas vs San Antonio Bulo Bulo",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431490",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "24/07 - Once Caldas vs San Antonio Bulo Bulo",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Club Guaraní vs อูนิเวร์ซิดาด ชิลี",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431491",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "25/07 - Club Guaraní vs อูนิเวร์ซิดาด ชิลี",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อัตเลติโก มิเนโร่ vs อัตเลติโก บูคารามังก้า",
+      "url": "https://ufanance8.com/liveplayer/?match_id=1431807",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "25/07 - อัตเลติโก มิเนโร่ vs อัตเลติโก บูคารามังก้า",
+      "referer": "https://ufanance8.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    }
+  ]
+}
