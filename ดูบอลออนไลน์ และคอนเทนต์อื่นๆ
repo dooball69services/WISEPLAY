@@ -25,39 +25,15 @@
 },  
 
 { 
-"name"				  	: 			"ดูบอล MONOMAX เร็วๆนี้", 
+"name"				  	: 			"ดูบอลสดวันนี้", 
 "image"			  		: 			"https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", 
-"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league" 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89" 
 },
 
 {
-"name"				   	:		  	"ดูบอลออนไลน์",
+"name"				   	:		  	"ดูทีวี",
 "image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
-"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C"
-},
-
-{
-"name"				  	:			  "รายการออนไลน์",
-"image"		  			:			  "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
-"url"				    	:			  "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
-},
-
-{
-"name"			  		:		  	"รายการที่ขอมา",
-"image"			  		:			  "https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
-"url"				    	:			  "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/THANAWAT"
-},
-
-{
-"name"				  	:			  "NETFLIX",
-"image"					  :			  "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
-"url"					    :		  	"https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9"
-},
-
-{
-"name"				  	:			  "18+ [เด็กห้ามเข้า!]",
-"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/10543/10543538.png",
-"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/18%2B"
+"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5"
 },
 
 {
