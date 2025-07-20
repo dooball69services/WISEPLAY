@@ -1,49 +1,9 @@
 {
   "name": "ดูบอลสดวันนี้ [2]",
-  "author": "2025-07-20 23:35:58",
+  "author": "Dev By DOOBALL69! [AUTO UPDATE] - 2025-07-21 00:16:39",
   "image": "",
   "url": "",
   "stations": [
-    {
-      "name": "🏍️ MotoGP | บีรโน เซอร์กิต ประเทศสาธารณรัฐเช็ก",
-      "url": "https://dookeela.live/events/event/6069",
-      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
-      "info": "วันสด - 🏍️ MotoGP | บีรโน เซอร์กิต ประเทศสาธารณรัฐเช็ก",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
-      "playInNatPlayer": "true",
-      "embed": "true"
-    },
-    {
-      "name": "Rapid Vienna vs ยูเนี่ยน เบอร์ลิน",
-      "url": "https://dookeela.live/football/match/462831",
-      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
-      "info": "Rapid Vienna vs ยูเนี่ยน เบอร์ลิน",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
-      "playInNatPlayer": "true",
-      "embed": "true"
-    },
-    {
-      "name": "União de Leiria vs เฟแนร์บาห์เช",
-      "url": "https://dookeela.live/football/match/462981",
-      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
-      "info": "วันจันทร์ ที่ 21 เวลา 02:00 น. - União de Leiria vs เฟแนร์บาห์เช",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
-      "playInNatPlayer": "true",
-      "embed": "true"
-    },
-    {
-      "name": "สปอร์ติงลิสบอน vs ซันเดอร์แลนด์",
-      "url": "https://dookeela.live/football/match/463112",
-      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
-      "info": "วันอังคาร ที่ 22 เวลา 02:00 น. - สปอร์ติงลิสบอน vs ซันเดอร์แลนด์",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
-      "playInNatPlayer": "true",
-      "embed": "true"
-    },
     {
       "name": "ฮัมมาร์บี้ vs บรอมมาปอยคาร์น่า",
       "url": "https://dookeela.live/football/match/462839",
@@ -239,6 +199,26 @@
       "url": "https://dookeela.live/football/match/462910",
       "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
       "info": "วันจันทร์ ที่ 21 เวลา 01:00 น. - พูมาส ยูนัม vs ปาชูก้า",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "União de Leiria vs เฟแนร์บาห์เช",
+      "url": "https://dookeela.live/football/match/462981",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันจันทร์ ที่ 21 เวลา 02:00 น. - União de Leiria vs เฟแนร์บาห์เช",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "สปอร์ติงลิสบอน vs ซันเดอร์แลนด์",
+      "url": "https://dookeela.live/football/match/463112",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันอังคาร ที่ 22 เวลา 02:00 น. - สปอร์ติงลิสบอน vs ซันเดอร์แลนด์",
       "referer": "https://dookeela.live/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
       "playInNatPlayer": "true",
