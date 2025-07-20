@@ -24,17 +24,23 @@
 "url"				    	: 			"" 
 },  
 
-{ 
-"name"				  	: 			"ดูบอลสดวันนี้", 
-"image"			  		: 			"https://cdn-icons-png.flaticon.com/512/3822/3822583.png", 
-"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89" 
-},
-
 { 		
 "name"			  		: 			"ดูบอล MONOMAX", 
 "image"				  	: 			"https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", 
 "url"				    	: 			"" 
 },  
+
+{ 
+"name"				  	: 			"ดูบอลสดวันนี้ [1]", 
+"image"			  		: 			"https://cdn-icons-png.flaticon.com/512/3822/3822583.png", 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89" 
+},
+
+{ 
+"name"				  	: 			"ดูบอลสดวันนี้ [2]", 
+"image"			  		: 			"https://cdn-icons-png.flaticon.com/512/1685/1685106.png", 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%20%5B2%5D" 
+},
 
 {
 "name"				   	:		  	"ดูบอลออนไลน์ [1]",
