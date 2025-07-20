@@ -1,0 +1,69 @@
+{
+"name"		  			:		          	"ดูบอลออนไลน์ และคอนเทนต์อื่นๆ",
+"author"	  			:		          	"พัฒนาโดย THANAWAT",
+"image"		  			:		          	"https://drive.google.com/uc?id=1xN8SpiCuQzYENlzD32q6Xi5v0bb3xZJz",
+"url"      				:		          	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/DOOBALL69!",
+"groups"				  :          
+[
+
+{ 
+"name"				  	: 			"REFRESH", 
+"image"			  		: 			"https://cdn-icons-png.flaticon.com/512/189/189686.png", 
+"url"				  	  : 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/DOOBALL69!" 
+},
+
+{ 		
+"name"			  		: 			"📣 แจ้งอัพเดทข่าวสาร", 
+"image"			  		: 			"https://cdn-icons-png.flaticon.com/512/4116/4116413.png", 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Update" 
+}, 
+
+{ 		
+"name"			  		: 			"ทดสอบระบบ", 
+"image"				  	: 			"https://cdn-icons-png.flaticon.com/512/16139/16139890.png", 
+"url"				    	: 			"" 
+},  
+
+{ 
+"name"				  	: 			"ดูบอล MONOMAX เร็วๆนี้", 
+"image"			  		: 			"https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", 
+"url"				    	: 			"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league" 
+},
+
+{
+"name"				   	:		  	"ดูบอลออนไลน์",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/6749/6749861.png",
+"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C"
+},
+
+{
+"name"				  	:			  "รายการออนไลน์",
+"image"		  			:			  "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
+"url"				    	:			  "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8"
+},
+
+{
+"name"			  		:		  	"รายการที่ขอมา",
+"image"			  		:			  "https://cdn-icons-png.flaticon.com/512/7770/7770260.png",
+"url"				    	:			  "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/THANAWAT"
+},
+
+{
+"name"				  	:			  "NETFLIX",
+"image"					  :			  "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
+"url"					    :		  	"https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9"
+},
+
+{
+"name"				  	:			  "18+ [เด็กห้ามเข้า!]",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/10543/10543538.png",
+"url"				    	:		  	"https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/18%2B"
+},
+
+{
+"name"				  	:			  "DEV-THANAWAT",
+"image"				  	:		  	"https://cdn-icons-png.flaticon.com/512/3242/3242257.png",
+"url"				    	:		  	""
+},
+]
+}
