@@ -1,1 +1,238 @@
-
+{
+  "name": "ดูบอลสดวันนี้ [2]",
+  "author": "Dev By DOOBALL69! [AUTO UPDATE] - 2025-07-22 22:37:02",
+  "image": "https://cdn-icons-png.flaticon.com/512/4049/4049083.png",
+  "url": "",
+  "stations": [
+    {
+      "name": "⚾ เบสบอล | San Diego Padres Vs Miami Marlins",
+      "url": "https://dookeela.live/events/event/6071",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 05:30 น. - ⚾ เบสบอล | San Diego Padres Vs Miami Marlins",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "⚾ เบสบอล | Minnesota Twins Vs Los Angeles Dodgers",
+      "url": "https://dookeela.live/events/event/6072",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 09:10 น. - ⚾ เบสบอล | Minnesota Twins Vs Los Angeles Dodgers",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เวียดนาม U23 vs กัมพูชา U23",
+      "url": "https://dookeela.live/football/match/463141",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "เวียดนาม U23 vs กัมพูชา U23",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ไทย U23 vs เมียนมาร์ U23",
+      "url": "https://dookeela.live/football/match/463142",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "ไทย U23 vs เมียนมาร์ U23",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อังกฤษ (ญ) vs อิตาลี (ญ)",
+      "url": "https://dookeela.live/football/match/463212",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 02:00 น. - อังกฤษ (ญ) vs อิตาลี (ญ)",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เยอรมนี (ญ) vs สเปน (ญ)",
+      "url": "https://dookeela.live/football/match/463459",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 02:00 น. - เยอรมนี (ญ) vs สเปน (ญ)",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "โคลอมเบีย (ญ) vs โบลิเวีย (ญ)",
+      "url": "https://dookeela.live/football/match/463217",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 04:00 น. - โคลอมเบีย (ญ) vs โบลิเวีย (ญ)",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ปารากวัย (ญ) vs บราซิล (ญ)",
+      "url": "https://dookeela.live/football/match/463226",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 07:00 น. - ปารากวัย (ญ) vs บราซิล (ญ)",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Cerro Largo vs เซ็นทรัล คอร์โดบ้า",
+      "url": "https://dookeela.live/football/match/463221",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 05:00 น. - Cerro Largo vs เซ็นทรัล คอร์โดบ้า",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เกรมิโอ vs Alianza Lima",
+      "url": "https://dookeela.live/football/match/463498",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 07:30 น. - เกรมิโอ vs Alianza Lima",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อุลซัน ฮุนได vs แทจอน ซิติเซน",
+      "url": "https://dookeela.live/football/match/463239",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 17:30 น. - อุลซัน ฮุนได vs แทจอน ซิติเซน",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เชจู ยูไนเต็ด vs เอฟซี โซล",
+      "url": "https://dookeela.live/football/match/463240",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 17:30 น. - เชจู ยูไนเต็ด vs เอฟซี โซล",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ช็อนบุก vs กังวอน เอฟซี",
+      "url": "https://dookeela.live/football/match/463241",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 17:30 น. - ช็อนบุก vs กังวอน เอฟซี",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อูราวะ เรด ไดมอนส์ vs โชนัน เบลล์มาเร่",
+      "url": "https://dookeela.live/football/match/463238",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 17:30 น. - อูราวะ เรด ไดมอนส์ vs โชนัน เบลล์มาเร่",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อาร์เซนอล vs มิลาน",
+      "url": "https://dookeela.live/football/match/463243",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 18:30 น. - อาร์เซนอล vs มิลาน",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "เฟแนร์บาห์เช vs อัล อิติฮัด(KSA)",
+      "url": "https://dookeela.live/football/match/463401",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 00:00 น. - เฟแนร์บาห์เช vs อัล อิติฮัด(KSA)",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "กาลาตาซาราย vs กายารี่",
+      "url": "https://dookeela.live/football/match/463406",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 00:30 น. - กาลาตาซาราย vs กายารี่",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "วาสโก ดากามา vs บาเฮีย",
+      "url": "https://dookeela.live/football/match/463251",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพุธ ที่ 23 เวลา 22:00 น. - วาสโก ดากามา vs บาเฮีย",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ฟลูมิเนนเซ่ vs พัลไมรัส",
+      "url": "https://dookeela.live/football/match/463470",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 05:00 น. - ฟลูมิเนนเซ่ vs พัลไมรัส",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "ซานโตส vs อินเตอร์นาซิอองนาล",
+      "url": "https://dookeela.live/football/match/463492",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 07:30 น. - ซานโตส vs อินเตอร์นาซิอองนาล",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "โบคา จูเนียร์ส vs แอดเลติโก ทูคูแมน",
+      "url": "https://dookeela.live/football/match/463491",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 07:10 น. - โบคา จูเนียร์ส vs แอดเลติโก ทูคูแมน",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "Ararat-Armenia vs ยูนิเวอร์ซิตาเตีย คลูจ์",
+      "url": "https://dookeela.live/football/match/463535",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 23:00 น. - Ararat-Armenia vs ยูนิเวอร์ซิตาเตีย คลูจ์",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    },
+    {
+      "name": "อาร์ดา vs HJK เฮลซิงกิ",
+      "url": "https://dookeela.live/football/match/463545",
+      "image": "https://api.rentm3u8.com/images/sports/Soccer-VM.gif",
+      "info": "วันพฤหัสบดี ที่ 24 เวลา 23:00 น. - อาร์ดา vs HJK เฮลซิงกิ",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit",
+      "playInNatPlayer": "true",
+      "embed": "true"
+    }
+  ]
+}
